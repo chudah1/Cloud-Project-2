@@ -12,10 +12,10 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://{{HOST}}/filteredimage?image_url=https://images.asos-media.com/products/river-island-maxi-dress-with-tie-neck-in-snake-print/10985965-1-snakeprint",
+					"raw": "http://{{EB_URL}}/filteredimage?image_url=https://images.asos-media.com/products/river-island-maxi-dress-with-tie-neck-in-snake-print/10985965-1-snakeprint",
 					"protocol": "http",
 					"host": [
-						"{{HOST}}"
+						"{{EB_URL}}"
 					],
 					"path": [
 						"filteredimage"
